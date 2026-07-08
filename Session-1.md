@@ -219,4 +219,135 @@ After completing this course, you will be able to:
 
 ## Foundational
 
-- AWS Certified Cloud
+- AWS Certified Cloud Practitioner
+
+---
+
+## Associate
+
+- AWS Certified Solutions Architect – Associate
+- AWS Certified SysOps Administrator – Associate
+- AWS Certified Developer – Associate
+
+---
+
+## Professional
+
+- AWS Certified Solutions Architect – Professional
+- AWS Certified DevOps Engineer – Professional
+
+---
+
+## Specialty
+
+- Data Analytics
+- Database
+- Machine Learning
+- Security
+- Networking
+- SAP on AWS
+
+---
+
+# Cloud Practitioner vs Solutions Architect Associate
+
+| Cloud Practitioner | Solutions Architect Associate |
+|-------------------|-------------------------------|
+| Beginner Level | Intermediate Level |
+| Cloud Basics | Solution Design |
+| AWS Fundamentals | Architecture Design |
+| Business Concepts | Deployment & Security |
+| Non-Technical Audience | Technical Professionals |
+
+---
+
+# Should You Get Certified?
+
+## Important
+
+Certification is **NOT mandatory**.
+
+Priority should always be:
+
+1. Knowledge
+2. Practical Skills
+3. Hands-on Experience
+4. Certification
+
+Certification validates your knowledge—it does not replace real-world experience.
+
+---
+
+# Benefits of AWS Certification
+
+- Better job opportunities
+- Higher salary potential
+- Increased confidence
+- Industry recognition
+- Better interview shortlisting
+- Proof of AWS knowledge
+
+---
+
+# Recommended Learning Strategy
+
+```text
+Watch Lecture
+      │
+      ▼
+Understand Theory
+      │
+      ▼
+Practice Hands-on
+      │
+      ▼
+Troubleshoot Issues
+      │
+      ▼
+Build Projects
+      │
+      ▼
+Revise
+      │
+      ▼
+Interview Preparation
+      │
+      ▼
+Certification
+```
+
+---
+
+# Weekly Learning Plan
+
+| Week | Topics |
+|------|--------|
+| Week 1 | Cloud Fundamentals |
+| Week 2 | AWS Basics |
+| Week 3 | IAM & Security |
+| Week 4 | EC2 |
+| Week 5 | Storage |
+| Week 6 | Databases |
+| Week 7 | Networking |
+| Week 8 | Monitoring |
+| Week 9 | High Availability |
+| Week 10+ | Projects & Certification |
+
+---
+
+# Key Takeaways
+
+- AWS is the leading public cloud platform.
+- No prior AWS knowledge is required.
+- Practice is as important as theory.
+- Projects are essential for becoming job-ready.
+- Certifications are valuable only when backed by practical skills.
+- Consistent learning (30 minutes/day) is enough to master AWS over time.
+
+---
+
+## Next Session
+
+➡️ Client-Server Architecture
+➡️ Networking Basics
+➡️ Introduction to Cloud Computing
